@@ -1,0 +1,65 @@
+
+body {
+background-image: url("https://images.wallpaperscraft.com/image/single/paint_stains_colorful_139992_3840x2160.jpg");
+background-repeat: no-repeat;
+
+background-size: cover;
+background-size: 100% 100%;
+padding: 2%;
+margin: 7%;
+}
+h1 {
+  color: white;
+
+text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+h2 {
+  color: white;
+
+text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+h4 {
+  color: white;
+
+text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+
+}
+h3 {
+  color: white;
+
+text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+
+}
+
+p {
+text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkblue;
+  color: white;
+padding: 10px;
+margin: 10px;
+}
+b {
+text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+  color: white;
+}
+ pre{
+text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px black;
+border: 4px solid powderblue;
+border-image: linear-gradient(to right, blue, orange) 1;
+padding: 10px;
+margin: 10px;
+  color: lightgrey;
+}
+li {
+text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px darkblue;
+  color: white;
+padding: 10px;
+margin: 10px;
+}
+i {
+text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+  color: white;
+}
+
+
